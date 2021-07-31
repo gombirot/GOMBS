@@ -1,0 +1,5 @@
+const Token = artfifacts.require("Token");
+Const dBank = artifcats.require("dBank)
+
+module.exports = async function(deployer) {
+//deploy Token
